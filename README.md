@@ -9,6 +9,9 @@
 
 * JavaScript is TypeScript. This means that any valid **.js** file can be renamed to <b>.ts</b> and compiled with other TypeScript files.
 * TypeScript supports Object Oriented Programming concepts like <b>classes</b>, <b>interfaces</b>, <b>inheritance</b>, etc.
+* JavaScript is TypeScript. This means that any valid <b>.js</b> file can be renamed to <b>.ts</b> and compiled with other TypeScript files.
+* TypeScript supports Object Oriented Programming concepts like <b>classes</b>, <b>interfaces</b>, <b>inheritance</b>, etc.
+
 
 ### Difference between ES6 (ES2015) and Typescript
 > There is no difference in both of them. Everything you write in ES6 is supported by Typescript.
@@ -23,10 +26,6 @@ Typescript is an extension of ES6. Some features that are additionally included 
 * Mixins 
 
 and many more…
-
-* JavaScript is TypeScript. This means that any valid <b>.js</b> file can be renamed to <b>.ts</b> and compiled with other TypeScript files.
-* TypeScript supports Object Oriented Programming concepts like <b>classes</b>, <b>interfaces</b>, <b>inheritance</b>, etc.
-
 
 ###  Typescript - Types
 
