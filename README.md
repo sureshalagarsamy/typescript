@@ -10,4 +10,18 @@
 * JavaScript is TypeScript. This means that any valid <b>.js</b> file can be renamed to <b>.ts</b> and compiled with other TypeScript files.
 * TypeScript supports Object Oriented Programming concepts like <b>classes</b>, <b>interfaces</b>, <b>inheritance</b>, etc.
 
+
+###  Typescript - Types
+
+| Data type| Keyword|
+| ------ | ------ |
+| Number | number |
+| String | string |
+| Boolean| boolean |
+| Void   | void    |
+| Null   | null   |
+| Undefined   | undefined   |
+
+
+
 To learn the basics of typescript, **[read this](https://www.typescriptlang.org/docs/handbook/typescript-in-5-minutes.html)**.
