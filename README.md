@@ -43,4 +43,8 @@ and many more…
 
 For example check this, **[Sample-1](https://stackblitz.com/edit/suresh-ts-interface)**.
 
+### Single Interface Inheritance
+
+For example check this, **[Sample-2](https://stackblitz.com/edit/suresh-ts-interface-2)**.
+
 To learn the basics of typescript, **[read this](https://www.typescriptlang.org/docs/handbook/typescript-in-5-minutes.html)**.
