@@ -47,4 +47,8 @@ For example check this, **[Sample-1](https://stackblitz.com/edit/suresh-ts-inter
 
 For example check this, **[Sample-2](https://stackblitz.com/edit/suresh-ts-interface-2)**.
 
+### Multiple Interface Inheritance
+
+For example check this, **[Sample-3](https://stackblitz.com/edit/suresh-ts-interface-3)**.
+
 To learn the basics of typescript, **[read this](https://www.typescriptlang.org/docs/handbook/typescript-in-5-minutes.html)**.
