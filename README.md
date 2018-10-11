@@ -38,19 +38,23 @@ and many more…
 | Null   | null   |
 | Undefined   | undefined   |
 
-### Interface example
 
+# Interface
+
+#### Simple Interface
 For example check this, **[Sample](https://stackblitz.com/edit/suresh-ts-interface)**.
 
-### Single Interface Inheritance
+#### Single Interface Inheritance
 
 For example check this, **[Sample](https://stackblitz.com/edit/suresh-ts-interface-2)**.
 
-### Multiple Interface Inheritance
+#### Multiple Interface Inheritance
 
 For example check this, **[Sample](https://stackblitz.com/edit/suresh-ts-interface-3)**.
 
-### Simple class
+# class
+#### Simple Class
 For example check this, **[Sample](https://stackblitz.com/edit/suresh-ts-class-1)**.
 
-To learn the basics of typescript, **[read this](https://www.typescriptlang.org/docs/handbook/typescript-in-5-minutes.html)**.
+#### Class Inheritance
+For example check this, **[Sample](https://stackblitz.com/edit/suresh-ts-class-2)**.
