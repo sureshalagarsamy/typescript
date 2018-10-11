@@ -52,7 +52,7 @@ For example check this, **[Sample](https://stackblitz.com/edit/suresh-ts-interfa
 
 For example check this, **[Sample](https://stackblitz.com/edit/suresh-ts-interface-3)**.
 
-# class
+# Class
 #### Simple Class
 For example check this, **[Sample](https://stackblitz.com/edit/suresh-ts-class-1)**.
 
