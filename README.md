@@ -41,7 +41,6 @@ and many more…
 
 ### Interface example
 
-For example check this, **[Sample-1] (https://stackblitz.com/edit/suresh-ts-interface)**.
-
+For example check this, **[Sample-1](https://stackblitz.com/edit/suresh-ts-interface)**.
 
 To learn the basics of typescript, **[read this](https://www.typescriptlang.org/docs/handbook/typescript-in-5-minutes.html)**.
