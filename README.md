@@ -15,7 +15,7 @@
 
 ### Difference between ES6 (ES2015) and Typescript
 > There is no difference in both of them. Everything you write in ES6 is supported by Typescript.
-Typescript is an extension of ES6. Some features that are additionally included in Typescript are:
+Typescript is an extension of ES6. `So whatever is valid JavaScript will be valid TypeScript so no other changes are needed`. Some features that are additionally included in Typescript are:
 
 * Type Annotations
   * eg: 
