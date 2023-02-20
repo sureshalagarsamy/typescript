@@ -35,23 +35,3 @@ and many more…
 | Null   | null   |
 | Undefined   | undefined   |
 
-
-# Interface
-
-#### Simple Interface
-For example check this, **[Sample](https://stackblitz.com/edit/suresh-ts-interface)**.
-
-#### Single Interface Inheritance
-
-For example check this, **[Sample](https://stackblitz.com/edit/suresh-ts-interface-2)**.
-
-#### Multiple Interface Inheritance
-
-For example check this, **[Sample](https://stackblitz.com/edit/suresh-ts-interface-3)**.
-
-# Class
-#### Simple Class
-For example check this, **[Sample](https://stackblitz.com/edit/suresh-ts-class-1)**.
-
-#### Class Inheritance
-For example check this, **[Sample](https://stackblitz.com/edit/suresh-ts-class-2)**.
